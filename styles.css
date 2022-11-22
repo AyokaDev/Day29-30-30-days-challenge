@@ -29,9 +29,9 @@ h1, h2, h3, h5 {
     border-radius: 10px;
 }
 
-@media screen and  (max-width: 500px){
+@media screen and  (max-width: 700px){
     .wrapper {
-        width: 70%;
+        width: 60%;
         height: 70vh;
     }
 }
