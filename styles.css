@@ -9,7 +9,7 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    margin: 0 0.5em;
+    margin: 0 1em;
 }
 .con {
     background-image: linear-gradient(blue, pink);
